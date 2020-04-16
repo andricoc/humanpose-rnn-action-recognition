@@ -180,7 +180,3 @@ Therefore, we intend to make a real time human pose action recognition through w
 By following the sequence of movement ordered, which will be detected by the system, user can get scores.
 
 Through this game, we are hoping can get some exercise and stay healthy despite the current situation.
-
-
-
-
